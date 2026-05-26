@@ -86904,5 +86904,98 @@ http://germanydns15.com/series/SLuRjStCUR/q0mK8n7U8b/1f1d57d5-d3c1-4087-a84e-c01
 #EXTINF:-1 tvg-id="" tvg-name="TR:BLUE EYE SAMURAI S1 E8" tvg-logo="https://image.tmdb.org/t/p/w185/97zdCvgAZrOaVTP7hYvuJp56rXe.jpg" group-title="MULTI SERIES",TR:BLUE EYE SAMURAI S1 E8
 http://germanydns15.com/series/SLuRjStCUR/q0mK8n7U8b/8aa666fa-5c7b-4bea-8b52-9a04e1c7cef3.mkv
 
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 9 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Channel%209%20HD%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8107/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", ??????? 9 IL
+http://live.biluspeh.com/8107/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 9 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Channel%209%20HD%20IL.png[/img]"   catchup-days="0", ??????? 9 HD IL
+http://live.biluspeh.com/8524/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 11 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Kan%2011%20IL.png[/img]"   catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8309/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="7", ??????? 11 IL
+http://live.biluspeh.com/8309/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 11 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Kan%2011%20IL.png[/img]"   catchup-days="0", ??????? 11 HD IL
+http://live.biluspeh.com/8348/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 12 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/CHANNEL%2012%20HD%20IL.png[/img]"   catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8160/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="7", ??????? 12 IL
+http://live.biluspeh.com/8160/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 12 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/CHANNEL%2012%20HD%20IL.png[/img]"   catchup-days="0", ??????? 12 HD IL
+http://live.biluspeh.com/8400/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 13 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/CHANNEL%2013%20HD%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8143/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", ??????? 13 IL
+http://live.biluspeh.com/8143/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 13 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/CHANNEL%2013%20HD%20IL.png[/img]"   catchup-days="0", ??????? 13 HD IL
+http://live.biluspeh.com/8352/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 14 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Channel%2014%20HD%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8112/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", ??????? 14 IL
+http://live.biluspeh.com/8112/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="??????? 14 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Channel%2014%20IL.png[/img]"   catchup-days="0", ??????? 14 HD IL
+http://live.biluspeh.com/8349/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Channel 24 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/24.png[/img]"   catchup-days="0", Channel 24 IL
+http://live.biluspeh.com/8371/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Good Life HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Good%20Life%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8717/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Good Life HD IL
+http://live.biluspeh.com/8717/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Home Plus IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Home%20Plus%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8703/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Home Plus IL
+http://live.biluspeh.com/8703/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Ego Total IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Ego%20Total%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8726/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Ego Total IL
+http://live.biluspeh.com/8726/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="VIVA IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/VIVA%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8526/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", VIVA IL
+http://live.biluspeh.com/8526/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Viva+ IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Viva+%20IL.png[/img]"   catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8372/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="7", Viva+ IL
+http://live.biluspeh.com/8372/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Yamtihoni IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Yamtihoni%20IL.png[/img]"   catchup-days="0", Yamtihoni IL
+http://live.biluspeh.com/8123/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Kan Chinuchit 23 IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Kan%20Elady.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8730/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Kan Chinuchit 23 IL
+http://live.biluspeh.com/8730/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Kneset IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/KNESET%20CHANNE%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8723/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Kneset IL
+http://live.biluspeh.com/8723/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Hidabroot IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/HIDABRUT%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8530/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Hidabroot IL
+http://live.biluspeh.com/8530/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Discovery HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Canal%20Discovery%20HD%20PL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8718/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Discovery HD IL
+http://live.biluspeh.com/8718/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Health Channel HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/HEALTH%20CHANNEL%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8728/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Health Channel HD IL
+http://live.biluspeh.com/8728/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Food Channel HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Food%20Network%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8727/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Food Channel HD IL
+http://live.biluspeh.com/8727/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Travel Channel IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TRAVEL%20CHANNEL%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8721/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Travel Channel IL
+http://live.biluspeh.com/8721/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Turkish Dramas Plus IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Turkish%20Drama%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8722/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Turkish Dramas Plus IL
+http://live.biluspeh.com/8722/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Turkish Dramas Plus HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Turkish%20Drama%20IL.png[/img]"   catchup-days="0", Turkish Dramas Plus HD IL
+http://live.biluspeh.com/8346/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 1 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/SPORT%201%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8339/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 1 HD IL
+http://live.biluspeh.com/8339/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 2 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/SPORT%202%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8341/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 2 HD IL
+http://live.biluspeh.com/8341/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 3 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Sport%203%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8340/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 3 HD IL
+http://live.biluspeh.com/8340/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 4 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/SPORT%204%20HD%20IL.png[/img]"   catchup-days="0", Sport 4 HD IL
+http://live.biluspeh.com/8513/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 5 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Sport%205%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8420/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 5 HD IL
+http://live.biluspeh.com/8420/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 5 Plus HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Sport%205%20plus%20HD.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8141/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 5 Plus HD IL
+http://live.biluspeh.com/8141/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 5 Liv? HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/SPORT%205%20LIVE%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8239/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 5 Liv? HD IL
+http://live.biluspeh.com/8239/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 5 Stars HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Sport%205%20Stars%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8186/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 5 Stars HD IL
+http://live.biluspeh.com/8186/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 5 Gold HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/SPORT%205%20GOLD%20IL.png[/img]"   catchup-days="0", Sport 5 Gold HD IL
+http://live.biluspeh.com/8974/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="ONE 1 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/ONE%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8704/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", ONE 1 HD IL
+http://live.biluspeh.com/8704/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="ONE 2 HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/ONE%202%20HD%20IL.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/8724/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", ONE 2 HD IL
+http://live.biluspeh.com/8724/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Hop IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/hop%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8232/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", Hop IL
+http://live.biluspeh.com/8232/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Baby IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Baby%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8305/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", Baby IL
+http://live.biluspeh.com/8305/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Luli IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Hot%20Luli.png[/img]"   catchup-days="0", Luli IL
+http://live.biluspeh.com/8517/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="TeenNick IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TeenNick%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8233/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", TeenNick IL
+http://live.biluspeh.com/8233/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Disney IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/DISNEY%20CHANNEL%20HD%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8149/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", Disney IL
+http://live.biluspeh.com/8149/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Disney Jr. IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Disney%20Jr%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8373/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", Disney Jr. IL
+http://live.biluspeh.com/8373/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Nick Jr IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Nick%20Jr%20IL.png[/img]"   catchup="default" catchup-days="14" catchup-source="http://live.biluspeh.com/8231/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="14", Nick Jr IL
+http://live.biluspeh.com/8231/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="Sport 5 Max HD IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/5max.png[/img]"   catchup="default" catchup-days="3" catchup-source="http://live.biluspeh.com/9484/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="3", Sport 5 Max HD IL
+http://live.biluspeh.com/9484/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Izrael"  tvg-id="i24news IL"  tvg-logo="[img]https://icon.biluspeh.com/icon/i24%20IL.png[/img]"   catchup="default" catchup-days="2" catchup-source="http://live.biluspeh.com/9482/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="2", i24news IL
+http://live.biluspeh.com/9482/video.m3u8?token=M4xovdRfcMXMXS9M
+
 
 
